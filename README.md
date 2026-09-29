@@ -1,6 +1,13 @@
 <div align="center">
 <img src="admin/public/project_nomad_logo.webp" width="200" height="200"/>
 
+  Project NOMAD — Arch Linux Adaptation
+
+This is an unofficial community fork of Project NOMAD adapted for Arch Linux.
+Project NOMAD is developed by Crosstalk Solutions and licensed under Apache License 2.0.
+This fork is not affiliated with or officially supported by Crosstalk Solutions.
+
+
 # Project NOMAD
 ### Knowledge That Never Goes Offline
 
